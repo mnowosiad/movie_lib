@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<?xml-stylesheet type="text/xsl" href="seen.xsl"?>
+<root>
+  <row>
+		<Title>Some Like It Hot</Title>
+		<Year>1959</Year>
+		<Rate>8</Rate>
+	</row>
+  <row>
+		<Title>Wind River</Title>
+		<Year>2017</Year>
+		<Rate>7</Rate>
+	</row>
+  <row>
+		<Title>Gone with the Wind</Title>
+		<Year>1939</Year>
+		<Rate>10</Rate>
+	</row>
+  <row>
+		<Title>Gone Girl</Title>
+		<Year>2014</Year>
+		<Rate>8</Rate>
+	</row>
+  <row>
+		<Title>Harry Potter and the Chamber of Secrets</Title>
+		<Year>2002</Year>
+		<Rate>8</Rate>
+	</row>
+  <row>
+		<Title>Star Wars: Episode V - The Empire Strikes Back</Title>
+		<Year>1980</Year>
+		<Rate>9</Rate>
+	</row>
+</root>
+
+
+
+
+

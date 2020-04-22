@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<?xml-stylesheet type="text/xsl" href="XSLTFile.xsl"?>
+<root>
+  <row>
+		<Title>Barbie as The Princess and the Pauper</Title>
+		<Year>2004</Year>
+		<Rate>7</Rate>
+	</row>
+  <row>
+		<Title>Jaws</Title>
+		<Year>1975</Year>
+		<Rate>6</Rate>
+	</row>
+  <row>
+		<Title>The Godfather</Title>
+		<Year>1972</Year>
+		<Rate>9</Rate>
+	</row>
+  <row>
+		<Title>The Godfather: Part II</Title>
+		<Year>1974</Year>
+		<Rate>4</Rate>
+	</row>
+  <row>
+		<Title>Own Position</Title>
+		<Year>2020</Year>
+		<Rate>6</Rate>
+	</row>
+  <row>
+		<Title>Jaws</Title>
+		<Year>1975</Year>
+		<Rate>5</Rate>
+	</row>
+  <row>
+		<Title>How to Train Your Dragon</Title>
+		<Year>2010</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>How I Met Your Mother</Title>
+		<Year>2005-2014</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>How to Train Your Dragon</Title>
+		<Year>2010</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>How to Train Your Dragon 2</Title>
+		<Year>2014</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>One False Move</Title>
+		<Year>1992</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>Money Heist</Title>
+		<Year>2017â</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>The Book of Eli</Title>
+		<Year>2010</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>My Little Pony: Friendship Is Magic</Title>
+		<Year>2010-2019</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>My Little Pony: The Movie</Title>
+		<Year>2017</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>Another Fine Mess</Title>
+		<Year>1930</Year>
+		<Rate>9</Rate>
+	</row>
+  <row>
+		<Title>Some Like It Hot</Title>
+		<Year>1959</Year>
+		<Rate>8</Rate>
+	</row>
+  <row>
+		<Title>The Secret in Their Eyes</Title>
+		<Year>2009</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>Position after import</Title>
+		<Year>2020</Year>
+		<Rate></Rate>
+	</row>
+  <row>
+		<Title>Wind River</Title>
+		<Year>2017</Year>
+		<Rate>7</Rate>
+	</row>
+  <row>
+		<Title>Gone with the Wind</Title>
+		<Year>1939</Year>
+		<Rate>10</Rate>
+	</row>
+  <row>
+		<Title>Gone Girl</Title>
+		<Year>2014</Year>
+		<Rate>8</Rate>
+	</row>
+</root>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
